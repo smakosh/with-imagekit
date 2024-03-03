@@ -1,3 +1,5 @@
+⚠️ If you're using Next.js 14 and want to do things with Server Actions, follow [here](https://dev.to/smakosh/how-to-upload-files-to-imagekit-using-nextjs-server-actions-53a)
+
 # Imagekit example
 
 - This example uses Imagekit for uploading images using Next API routes and displays the images using Next image
